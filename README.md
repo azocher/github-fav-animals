@@ -1,2 +1,2 @@
 # Group Favorite Animals
-Add your fave animals here!
+My favorite animal is the gorilla!
