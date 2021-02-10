@@ -1,5 +1,4 @@
 # Group Favorite Animals
 Add your fave animals here!
 
-![picture](images/frog.jpg)
-![alt text](https://www.askideas.com/media/49/Meridith-How-Do-I-Open-A-New-Tab-Funny-Computer-Meme-Picture.jpg)
+ ![Github fave animal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_IP8TDqke8tcFAbvnh7n-NToT7DbNqPxdA&usqp=CAU)
